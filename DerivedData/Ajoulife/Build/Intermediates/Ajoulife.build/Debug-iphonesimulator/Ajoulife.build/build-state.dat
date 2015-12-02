@@ -1,0 +1,1215 @@
+TAjoulife
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Info.plist Ajoulife/Ajoulife-Info.plist
+cDataModelVersionCompile /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Model.momd /Users/mac27/Desktop/13.06.25/Ajoulife/Model.xcdatamodeld
+cDataModelVersionCompile /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Model.momd /Users/mac27/Desktop/13.06.25/Ajoulife/Model.xcdatamodeld
+cProcessPCH /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch.pth Ajoulife/Ajoulife-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/main.o /Users/mac27/Desktop/13.06.25/Ajoulife/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AppDelegate.o /Users/mac27/Desktop/13.06.25/Ajoulife/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/WebViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/WebViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ResturantChooseViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/ResturantChooseViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AddViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/AddViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/Restaurant.o /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/Restaurant.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/SearchViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/SearchViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaDetailViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/CoreDataTableViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/CoreDataTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/FavoriteViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/FavoriteViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MainViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MoreViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/MoreViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Ajoulife normal i386
+cGenerateDSYMFile /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app.dSYM /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Ajoulife
+cCopyStringsFile /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/en.lproj/InfoPlist.strings Ajoulife/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/mac27/Desktop/13.06.25/Ajoulife/en.lproj/MainStoryboard.storyboard
+cCpResource Ajoulife/restaurantList.txt DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/restaurantList.txt
+cCpResource Ajoulife/temp.txt DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/temp.txt
+cCpResource Ajoulife/button_chicken.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_chicken.png
+cCpResource Ajoulife/button_china.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_china.png
+cCpResource Ajoulife/button_contact.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_contact.png
+cCpResource Ajoulife/button_drinks.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_drinks.png
+cCpResource Ajoulife/button_food.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_food.png
+cCpResource Ajoulife/button_japan.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_japan.png
+cCpResource Ajoulife/button_korean.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_korean.png
+cCpResource Ajoulife/button_meat.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_meat.png
+cCpResource Ajoulife/button_notice.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_notice.png
+cCpResource Ajoulife/button_request.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_request.png
+cCpResource Ajoulife/button_school.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_school.png
+cCpResource Ajoulife/button_service.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_service.png
+cCpResource Ajoulife/button_west.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_west.png
+cCpResource Ajoulife/button_yasic.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_yasic.png
+cCpResource Ajoulife/Default.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Default.png
+cCpResource Ajoulife/background_service.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/background_service.png
+cCpResource Ajoulife/call.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/call.png
+cCpResource Ajoulife/star.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/star.png
+cCpResource Ajoulife/starPressed.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starPressed.png
+cCpResource Ajoulife/time.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/time.png
+cCpResource Ajoulife/back.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/back.png
+cCpResource Ajoulife/back2.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/back2.jpg
+cCpResource Ajoulife/restaurantImage/bon.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/bon.jpg
+cCpResource Ajoulife/restaurantImage/j2.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/j2.jpg
+cCpResource Ajoulife/restaurantImage/j21.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/j21.jpg
+cCpResource Ajoulife/restaurantImage/sap.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/sap.jpg
+cCpResource Ajoulife/restaurantImage/sap1.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/sap1.jpg
+cCpResource Ajoulife/restaurantImage/starz.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starz.jpg
+cCpResource Ajoulife/restaurantImage/starz1.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starz1.jpg
+cCpResource Ajoulife/restaurantImage/yum.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/yum.jpg
+cTouch /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004FC52D3000000000002DEF20
+t1338322224
+s3010336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FC52D310000000000244490
+t1338322225
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004FC52D310000000000089510
+t1338322225
+s562448
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FC52D380000000000353830
+t1338322232
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004FC52D4400000000000D9D60
+t1338322244
+s892256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004FC52D4800000000000CA7B0
+t1338322248
+s829360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FC52D4F0000000000905E40
+t1338322255
+s9461312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/lib/libsqlite3.dylib
+c000000004FC52DEA00000000000C0A00
+t1338322410
+s788992
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/AddViewController.m
+c0000000051C9CB3D0000000000001624
+t1372179261
+s5668
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaDetailViewController.m
+c0000000051C959C20000000000000E01
+t1372150210
+s3585
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaViewController.m
+c0000000051C956BE00000000000022AF
+t1372149438
+s8879
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/Restaurant.m
+c0000000051C58F0800000000000001E7
+t1371901704
+s487
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/AddViewController.h
+c0000000051C95C420000000000000589
+t1372150850
+s1417
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/Ajoulife-Prefix.pch
+c0000000051BC01D20000000000000161
+t1371275730
+s353
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/AppDelegate.h
+c0000000051C427BA00000000000002D3
+t1371809722
+s723
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/AppDelegate.m
+c0000000051C957F600000000000031AD
+t1372149750
+s12717
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/ChinaDetailViewController.h
+c0000000051C8054600000000000003BF
+t1372063046
+s959
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/ChinaViewController.h
+c0000000051C92B4C0000000000000312
+t1372138316
+s786
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/CoreDataTableViewController.h
+c0000000051C7C408000000000000017A
+t1372046344
+s378
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/CoreDataTableViewController.m
+c0000000051C7C4080000000000001946
+t1372046344
+s6470
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/Default.png
+c0000000051C667E40000000000013587
+t1371957220
+s79239
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/FavoriteViewController.h
+c0000000051C592A400000000000000E8
+t1371902628
+s232
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/FavoriteViewController.m
+c0000000051C593BC0000000000000487
+t1371902908
+s1159
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/MainViewController.h
+c0000000051BC388600000000000000E1
+t1371289734
+s225
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/MainViewController.m
+c0000000051C5894E0000000000000488
+t1371900238
+s1160
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/Model.xcdatamodeld
+c0000000051C96D900000000000000088
+t1372155280
+s136
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/MoreViewController.h
+c0000000051C56C9E00000000000001AA
+t1371892894
+s426
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/MoreViewController.m
+c0000000051A07BC40000000000000B13
+t1369471940
+s2835
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/Restaurant.h
+c0000000051C58F0800000000000003DD
+t1371901704
+s989
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/ResturantChooseViewController.h
+c0000000051C55B0E0000000000000117
+t1371888398
+s279
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/ResturantChooseViewController.m
+c0000000051C55EC000000000000003AB
+t1371889344
+s939
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/SearchViewController.h
+c0000000051C6B4FE0000000000000376
+t1371976958
+s886
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/SearchViewController.m
+c0000000051C960480000000000001570
+t1372151880
+s5488
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/WebViewController.h
+c0000000051AB0D7E00000000000001F5
+t1370164606
+s501
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/WebViewController.m
+c0000000051C595B40000000000000678
+t1371903412
+s1656
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/back.png
+c0000000051C964F600000000000154C7
+t1372153078
+s87239
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/back2.jpg
+c0000000051C965F800000000000087F0
+t1372153336
+s34800
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/background_service.png
+c0000000051C68AAC0000000000013737
+t1371966124
+s79671
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/button_chicken.png
+c0000000051C67F4C00000000000089A7
+t1371963212
+s35239
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/button_china.png
+c0000000051C67FF800000000000089CE
+t1371963384
+s35278
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/button_contact.png
+c0000000051C675D600000000000017E7
+t1371960790
+s6119
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/button_drinks.png
+c0000000051C671880000000000000EB5
+t1371959688
+s3765
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/button_food.png
+c0000000051C671D6000000000000145D
+t1371959766
+s5213
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/button_japan.png
+c0000000051C680760000000000007B65
+t1371963510
+s31589
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/button_korean.png
+c0000000051C681460000000000007D2F
+t1371963718
+s32047
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/button_meat.png
+c0000000051C6828A00000000000083BF
+t1371964042
+s33727
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/button_notice.png
+c0000000051C6735A00000000000019A7
+t1371960154
+s6567
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/button_request.png
+c0000000051C6745C000000000000179A
+t1371960412
+s6042
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/button_school.png
+c0000000051C671A40000000000000F3B
+t1371959716
+s3899
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/button_service.png
+c0000000051C674D400000000000017F2
+t1371960532
+s6130
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/button_west.png
+c0000000051C67DEA00000000000084D9
+t1371962858
+s34009
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/button_yasic.png
+c0000000051C671B400000000000012F1
+t1371959732
+s4849
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/call.png
+c0000000051A099220000000000023896
+t1369479458
+s145558
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/en.lproj/InfoPlist.strings
+c0000000051A04B26000000000000002D
+t1369459494
+s45
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/en.lproj/MainStoryboard.storyboard
+c0000000051C9C668000000000001648C
+t1372178024
+s91276
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/main.m
+c0000000051C9C9CE0000000000000153
+t1372178894
+s339
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/bon.jpg
+c0000000051C9C0C40000000000012448
+t1372176580
+s74824
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/j2.jpg
+c0000000051C7F0CE0000000000005098
+t1372057806
+s20632
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/j21.jpg
+c0000000051C7F0C4000000000000BD3E
+t1372057796
+s48446
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/sap.jpg
+c0000000051C9C134000000000000D217
+t1372176692
+s53783
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/sap1.jpg
+c0000000051C9C1600000000000016184
+t1372176736
+s90500
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/starz.jpg
+c0000000051C7EF9C0000000000007A42
+t1372057500
+s31298
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/starz1.jpg
+c0000000051C7EFCA00000000000092D3
+t1372057546
+s37587
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/yum.jpg
+c0000000051C9C2BE0000000000010D06
+t1372177086
+s68870
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/restaurantList.txt
+c0000000051C9C9CB000000000000022C
+t1372178891
+s556
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/star.png
+c0000000051AC4EA400000000000105D7
+t1370246820
+s67031
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/starPressed.png
+c0000000051AC4F7A000000000001EB7B
+t1370247034
+s125819
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/temp.txt
+c0000000051C956F2000000000000060C
+t1372149490
+s1548
+
+N/Users/mac27/Desktop/13.06.25/Ajoulife/time.png
+c0000000051A09AB6000000000000BC13
+t1369479862
+s48147
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AddViewController.o
+t1372179264
+s97460
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/Ajoulife.LinkFileList
+c0000000051C9C4900000000000000857
+t1372177552
+s2135
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AppDelegate.o
+t1372177568
+s89704
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaDetailViewController.o
+t1372177569
+s73568
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaViewController.o
+t1372177569
+s88312
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/CoreDataTableViewController.o
+t1372177569
+s79576
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/FavoriteViewController.o
+t1372177569
+s48172
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MainViewController.o
+t1372177569
+s48456
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MoreViewController.o
+t1372177569
+s63968
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/Restaurant.o
+t1372177568
+s3360
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ResturantChooseViewController.o
+t1372177568
+s46628
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/SearchViewController.o
+t1372177568
+s82160
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/WebViewController.o
+t1372177568
+s53264
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/main.o
+t1372178895
+s3152
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch.pth
+t1372177566
+s4246136
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app
+t1372179264
+s1326
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app.dSYM
+t1372179264
+s102
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Ajoulife
+t1372179264
+s135376
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Default.png
+t1372177571
+s79239
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Info.plist
+t1372177553
+s831
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Model.momd
+t1372177554
+s170
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/PkgInfo
+t1372177553
+s8
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/back.png
+t1372177571
+s87239
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/back2.jpg
+t1372177571
+s34800
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/background_service.png
+t1372177571
+s79671
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/bon.jpg
+t1372177571
+s74824
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_chicken.png
+t1372177570
+s35239
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_china.png
+t1372177570
+s35278
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_contact.png
+t1372177570
+s6119
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_drinks.png
+t1372177570
+s3765
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_food.png
+t1372177570
+s5213
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_japan.png
+t1372177570
+s31589
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_korean.png
+t1372177570
+s32047
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_meat.png
+t1372177570
+s33727
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_notice.png
+t1372177571
+s6567
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_request.png
+t1372177571
+s6042
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_school.png
+t1372177571
+s3899
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_service.png
+t1372177571
+s6130
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_west.png
+t1372177571
+s34009
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_yasic.png
+t1372177571
+s4849
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/call.png
+t1372177571
+s145558
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/en.lproj/InfoPlist.strings
+t1372177570
+s42
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/en.lproj/MainStoryboard.storyboardc
+t1372178034
+s850
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/j2.jpg
+t1372177571
+s20632
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/j21.jpg
+t1372177571
+s48446
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/restaurantList.txt
+t1372178895
+s556
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/sap.jpg
+t1372177571
+s53783
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/sap1.jpg
+t1372177571
+s90500
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/star.png
+t1372177571
+s67031
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starPressed.png
+t1372177571
+s125819
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starz.jpg
+t1372177571
+s31298
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starz1.jpg
+t1372177571
+s37587
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/temp.txt
+t1372177570
+s1548
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/time.png
+t1372177571
+s48147
+
+N/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/yum.jpg
+t1372177571
+s68870
+
+NAjoulife/Ajoulife-Info.plist
+c0000000051A04B2600000000000004CB
+t1369459494
+s1227
+
+CBuild AST from /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/AddViewController.m
+r0
+
+CBuild AST from /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaDetailViewController.m
+r0
+
+CBuild AST from /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaViewController.m
+r0
+
+CBuild AST from /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/Restaurant.m
+r0
+
+CBuild AST from /Users/mac27/Desktop/13.06.25/Ajoulife/AppDelegate.m
+r0
+
+CBuild AST from /Users/mac27/Desktop/13.06.25/Ajoulife/CoreDataTableViewController.m
+r0
+
+CBuild AST from /Users/mac27/Desktop/13.06.25/Ajoulife/FavoriteViewController.m
+r0
+
+CBuild AST from /Users/mac27/Desktop/13.06.25/Ajoulife/MainViewController.m
+r0
+
+CBuild AST from /Users/mac27/Desktop/13.06.25/Ajoulife/MoreViewController.m
+r0
+
+CBuild AST from /Users/mac27/Desktop/13.06.25/Ajoulife/ResturantChooseViewController.m
+r0
+
+CBuild AST from /Users/mac27/Desktop/13.06.25/Ajoulife/SearchViewController.m
+r0
+
+CBuild AST from /Users/mac27/Desktop/13.06.25/Ajoulife/WebViewController.m
+r0
+
+CBuild AST from /Users/mac27/Desktop/13.06.25/Ajoulife/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb62d92ea037ab741^1f10ccea037ab741^---0#1#0#--18"Check dependencies36"82CB76DE-FB75-46B7-88F4-41A542B09844-
+
+CCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AddViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/AddViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393872063.400196
+e393872064.580606
+r1
+xCompileC
+xDerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AddViewController.o
+x/Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/AddViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/AddViewController.mfb9166bf027ab741^11aa94c0027ab741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/AddViewController.m0000000000000000^3612"CompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AddViewController.o Ajoulife/../Ajoulife/AddViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mac27/Desktop/13.06.25    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-generated-files.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-own-target-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-all-target-headers.hmap -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-project-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/include -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources/i386 -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -include /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch -MMD -MT dependencies -MF /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AddViewController.d --serialize-diagnostics /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AddViewController.dia -c /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/AddViewController.m -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AddViewController.o36"2A02307D-2971-4832-9505-548D163355F7-
+
+CCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AppDelegate.o /Users/mac27/Desktop/13.06.25/Ajoulife/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393870368.649105
+e393870368.912776
+r1
+xCompileC
+xDerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AppDelegate.o
+x/Users/mac27/Desktop/13.06.25/Ajoulife/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/mac27/Desktop/13.06.25/Ajoulife/AppDelegate.mdd43a620fc79b741^69ace920fc79b741^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/AppDelegate.m0000000000000000^3552"CompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AppDelegate.o Ajoulife/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mac27/Desktop/13.06.25    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-generated-files.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-own-target-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-all-target-headers.hmap -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-project-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/include -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources/i386 -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -include /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch -MMD -MT dependencies -MF /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AppDelegate.dia -c /Users/mac27/Desktop/13.06.25/Ajoulife/AppDelegate.m -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/AppDelegate.o36"6707C0E0-8C27-4C74-A099-245ED2D2B135-
+
+CCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaDetailViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393870369.061253
+e393870369.244679
+r1
+xCompileC
+xDerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaDetailViewController.o
+x/Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaDetailViewController.m3ecb0f21fc79b741^e4a23e21fc79b741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaDetailViewController.m0000000000000000^3660"CompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaDetailViewController.o Ajoulife/../Ajoulife/ChinaDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mac27/Desktop/13.06.25    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-generated-files.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-own-target-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-all-target-headers.hmap -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-project-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/include -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources/i386 -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -include /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch -MMD -MT dependencies -MF /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaDetailViewController.d --serialize-diagnostics /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaDetailViewController.dia -c /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaDetailViewController.m -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaDetailViewController.o36"4CAFC2AE-0171-4249-9EC9-AEAD6BCBA90F-
+
+CCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393870369.068651
+e393870369.222463
+r1
+xCompileC
+xDerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaViewController.o
+x/Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaViewController.m910c1521fc79b741^e7fc3821fc79b741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaViewController.m0000000000000000^3624"CompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaViewController.o Ajoulife/../Ajoulife/ChinaViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mac27/Desktop/13.06.25    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-generated-files.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-own-target-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-all-target-headers.hmap -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-project-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/include -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources/i386 -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -include /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch -MMD -MT dependencies -MF /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaViewController.d --serialize-diagnostics /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaViewController.dia -c /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/ChinaViewController.m -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ChinaViewController.o36"A37FFB85-8341-4D31-8703-B86A651ABB85-
+
+CCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/CoreDataTableViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/CoreDataTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393870369.223669
+e393870369.319227
+r1
+xCompileC
+xDerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/CoreDataTableViewController.o
+x/Users/mac27/Desktop/13.06.25/Ajoulife/CoreDataTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/mac27/Desktop/13.06.25/Ajoulife/CoreDataTableViewController.m9e623921fc79b741^66c05121fc79b741^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/CoreDataTableViewController.m0000000000000000^3648"CompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/CoreDataTableViewController.o Ajoulife/CoreDataTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mac27/Desktop/13.06.25    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-generated-files.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-own-target-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-all-target-headers.hmap -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-project-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/include -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources/i386 -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -include /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch -MMD -MT dependencies -MF /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/CoreDataTableViewController.d --serialize-diagnostics /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/CoreDataTableViewController.dia -c /Users/mac27/Desktop/13.06.25/Ajoulife/CoreDataTableViewController.m -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/CoreDataTableViewController.o36"FFDF75AA-0B48-47AD-B21D-1F91FA91C5F8-
+
+CCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/FavoriteViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/FavoriteViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393870369.246020
+e393870369.316954
+r1
+xCompileC
+xDerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/FavoriteViewController.o
+x/Users/mac27/Desktop/13.06.25/Ajoulife/FavoriteViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/mac27/Desktop/13.06.25/Ajoulife/FavoriteViewController.m151b3f21fc79b741^7d245121fc79b741^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/FavoriteViewController.m0000000000000000^3618"CompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/FavoriteViewController.o Ajoulife/FavoriteViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mac27/Desktop/13.06.25    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-generated-files.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-own-target-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-all-target-headers.hmap -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-project-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/include -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources/i386 -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -include /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch -MMD -MT dependencies -MF /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/FavoriteViewController.d --serialize-diagnostics /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/FavoriteViewController.dia -c /Users/mac27/Desktop/13.06.25/Ajoulife/FavoriteViewController.m -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/FavoriteViewController.o36"14675A96-9602-48B6-9E92-07D067395E02-
+
+CCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MainViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393870369.318592
+e393870369.427065
+r1
+xCompileC
+xDerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MainViewController.o
+x/Users/mac27/Desktop/13.06.25/Ajoulife/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/mac27/Desktop/13.06.25/Ajoulife/MainViewController.ma3ae5121fc79b741^5f616d21fc79b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/MainViewController.m0000000000000000^3594"CompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MainViewController.o Ajoulife/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mac27/Desktop/13.06.25    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-generated-files.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-own-target-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-all-target-headers.hmap -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-project-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/include -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources/i386 -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -include /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch -MMD -MT dependencies -MF /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MainViewController.dia -c /Users/mac27/Desktop/13.06.25/Ajoulife/MainViewController.m -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MainViewController.o36"50FFAE34-5C2B-4731-85C7-AAFF7E622B79-
+
+CCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MoreViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/MoreViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393870369.320425
+e393870369.469580
+r1
+xCompileC
+xDerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MoreViewController.o
+x/Users/mac27/Desktop/13.06.25/Ajoulife/MoreViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/mac27/Desktop/13.06.25/Ajoulife/MoreViewController.m6a2f5221fc79b741^db367821fc79b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/MoreViewController.m0000000000000000^3594"CompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MoreViewController.o Ajoulife/MoreViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mac27/Desktop/13.06.25    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-generated-files.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-own-target-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-all-target-headers.hmap -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-project-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/include -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources/i386 -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -include /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch -MMD -MT dependencies -MF /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MoreViewController.d --serialize-diagnostics /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MoreViewController.dia -c /Users/mac27/Desktop/13.06.25/Ajoulife/MoreViewController.m -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/MoreViewController.o36"B2E0692A-C3BA-40F3-BB44-CA6582B56398-
+
+CCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/Restaurant.o /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/Restaurant.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393870368.914657
+e393870369.059913
+r1
+xCompileC
+xDerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/Restaurant.o
+x/Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/Restaurant.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/Restaurant.mab3fea20fc79b741^da560f21fc79b741^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/Restaurant.m0000000000000000^3570"CompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/Restaurant.o Ajoulife/../Ajoulife/Restaurant.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mac27/Desktop/13.06.25    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-generated-files.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-own-target-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-all-target-headers.hmap -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-project-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/include -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources/i386 -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -include /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch -MMD -MT dependencies -MF /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/Restaurant.d --serialize-diagnostics /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/Restaurant.dia -c /Users/mac27/Desktop/13.06.25/Ajoulife/../Ajoulife/Restaurant.m -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/Restaurant.o36"8A2DFC9E-4EB6-4944-9811-8F493BF3D2AA-
+
+CCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ResturantChooseViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/ResturantChooseViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393870368.735651
+e393870368.913204
+r1
+xCompileC
+xDerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ResturantChooseViewController.o
+x/Users/mac27/Desktop/13.06.25/Ajoulife/ResturantChooseViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/mac27/Desktop/13.06.25/Ajoulife/ResturantChooseViewController.mc172bc20fc79b741^6ccee920fc79b741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/ResturantChooseViewController.m0000000000000000^3660"CompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ResturantChooseViewController.o Ajoulife/ResturantChooseViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mac27/Desktop/13.06.25    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-generated-files.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-own-target-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-all-target-headers.hmap -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-project-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/include -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources/i386 -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -include /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch -MMD -MT dependencies -MF /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ResturantChooseViewController.d --serialize-diagnostics /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ResturantChooseViewController.dia -c /Users/mac27/Desktop/13.06.25/Ajoulife/ResturantChooseViewController.m -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/ResturantChooseViewController.o36"581775D7-CA94-4DB7-8F09-E9B05276FE9F-
+
+CCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/SearchViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/SearchViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393870366.988620
+e393870368.648255
+r1
+xCompileC
+xDerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/SearchViewController.o
+x/Users/mac27/Desktop/13.06.25/Ajoulife/SearchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/mac27/Desktop/13.06.25/Ajoulife/SearchViewController.m6a34fd1efc79b741^ba4ba620fc79b741^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/SearchViewController.m0000000000000000^3606"CompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/SearchViewController.o Ajoulife/SearchViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mac27/Desktop/13.06.25    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-generated-files.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-own-target-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-all-target-headers.hmap -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-project-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/include -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources/i386 -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -include /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch -MMD -MT dependencies -MF /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/SearchViewController.d --serialize-diagnostics /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/SearchViewController.dia -c /Users/mac27/Desktop/13.06.25/Ajoulife/SearchViewController.m -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/SearchViewController.o36"3EDB9894-4065-4D6F-97EB-B6CD519A1CE6-
+
+CCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/WebViewController.o /Users/mac27/Desktop/13.06.25/Ajoulife/WebViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393870366.989492
+e393870368.647246
+r1
+xCompileC
+xDerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/WebViewController.o
+x/Users/mac27/Desktop/13.06.25/Ajoulife/WebViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/mac27/Desktop/13.06.25/Ajoulife/WebViewController.m5168fd1efc79b741^c2bea520fc79b741^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/WebViewController.m0000000000000000^3588"CompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/WebViewController.o Ajoulife/WebViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mac27/Desktop/13.06.25    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-generated-files.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-own-target-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-all-target-headers.hmap -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-project-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/include -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources/i386 -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -include /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch -MMD -MT dependencies -MF /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/WebViewController.d --serialize-diagnostics /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/WebViewController.dia -c /Users/mac27/Desktop/13.06.25/Ajoulife/WebViewController.m -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/WebViewController.o36"844EDA77-DC60-49B3-9033-20207DF796E0-
+
+CCompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/main.o /Users/mac27/Desktop/13.06.25/Ajoulife/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393871694.348087
+e393871695.187091
+r1
+xCompileC
+xDerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/main.o
+x/Users/mac27/Desktop/13.06.25/Ajoulife/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/mac27/Desktop/13.06.25/Ajoulife/main.md13b594e017ab741^47e42f4f017ab741^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/main.m0000000000000000^3510"CompileC DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/main.o Ajoulife/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mac27/Desktop/13.06.25    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-generated-files.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-own-target-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-all-target-headers.hmap -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-project-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/include -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources/i386 -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -include /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch -MMD -MT dependencies -MF /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/main.dia -c /Users/mac27/Desktop/13.06.25/Ajoulife/main.m -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/main.o36"D696D239-E68B-4182-B451-53D8FBBCD323-
+
+CCompileStoryboard /Users/mac27/Desktop/13.06.25/Ajoulife/en.lproj/MainStoryboard.storyboard
+s393870824.810061
+e393870834.773718
+r1
+xCompileStoryboard
+x/Users/mac27/Desktop/13.06.25/Ajoulife/en.lproj/MainStoryboard.storyboard
+o/* com.apple.ibtool.document.warnings */
+o/Users/mac27/Desktop/13.06.25/Ajoulife/en.lproj/MainStoryboard.storyboard:kw8-9q-XT0: warning: Segues initiated directly from view controllers must have an identifier for use with -[UIViewController performSegueWithIdentifier:sender:] [9]
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"CompileStoryboard Ajoulife/en.lproj/MainStoryboard.storyboard060dd1e8fd79b741^c712c6f2fd79b741^-280"/* com.apple.ibtool.document.warnings *//Users/mac27/Desktop/13.06.25/Ajoulife/en.lproj/MainStoryboard.storyboard:kw8-9q-XT0: warning: Segues initiated directly from view controllers must have an identifier for use with -[UIViewController performSegueWithIdentifier:sender:] [9]1(21%IDEActivityLogMessage2@139"Segues initiated directly from view controllers must have an identifier for use with -[UIViewController performSegueWithIdentifier:sender:]-393870834#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@89"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/en.lproj/MainStoryboard.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#0#-19%DVTDocumentLocation4@89"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/en.lproj/MainStoryboard.storyboard0000000000000000^905"CompileStoryboard Ajoulife/en.lproj/MainStoryboard.storyboard    cd /Users/mac27/Desktop/13.06.25    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/en.lproj/MainStoryboard.storyboardc /Users/mac27/Desktop/13.06.25/Ajoulife/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"35B2926F-29D8-4589-B1BC-2ECED0B69CF1-
+
+CCopyStringsFile /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/en.lproj/InfoPlist.strings Ajoulife/en.lproj/InfoPlist.strings
+s393870370.644817
+e393870370.681143
+r1
+xCopyStringsFile
+x/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/en.lproj/InfoPlist.strings
+xAjoulife/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy Ajoulife/en.lproj/InfoPlist.strings0c23a522fc79b741^6a69ae22fc79b741^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/en.lproj/InfoPlist.strings0000000000000000^621"CopyStringsFile DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/en.lproj/InfoPlist.strings Ajoulife/en.lproj/InfoPlist.strings    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/en.lproj -- Ajoulife/en.lproj/InfoPlist.strings36"E2C06031-0142-4730-BF2A-3BE3B7E518DA-
+
+CCpResource Ajoulife/Default.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Default.png
+s393870371.027544
+e393870371.030917
+r1
+xCpResource
+xAjoulife/Default.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Default.pngff420723fc79b741^63f10723fc79b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Default.png000000000080d041^716"CpResource Ajoulife/Default.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Default.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/Default.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"F21FCCFA-7A3A-4008-A904-DA86A8E318F1-
+
+CCpResource Ajoulife/back.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/back.png
+s393870371.186273
+e393870371.243827
+r1
+xCpResource
+xAjoulife/back.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/back.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/back.pngadc12f23fc79b741^c1743e23fc79b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/back.png000000000080d041^707"CpResource Ajoulife/back.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/back.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/back.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"AB6BCDF9-132A-447F-8D62-71DA4D02E03C-
+
+CCpResource Ajoulife/back2.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/back2.jpg
+s393870371.245093
+e393870371.247766
+r1
+xCpResource
+xAjoulife/back2.jpg
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/back2.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/back2.jpgabce3e23fc79b741^8e733f23fc79b741^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/back2.jpg000000000080d041^710"CpResource Ajoulife/back2.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/back2.jpg    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/back2.jpg /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"F81ABE92-ABD0-4DEC-971C-79AA99444004-
+
+CCpResource Ajoulife/background_service.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/background_service.png
+s393870371.032127
+e393870371.054272
+r1
+xCpResource
+xAjoulife/background_service.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/background_service.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/background_service.png13490823fc79b741^19e50d23fc79b741^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/background_service.png000000000080d041^749"CpResource Ajoulife/background_service.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/background_service.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/background_service.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"B6646BD1-5EA8-4B54-B8FB-F1E0BD11857C-
+
+CCpResource Ajoulife/button_chicken.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_chicken.png
+s393870370.777925
+e393870370.933320
+r1
+xCpResource
+xAjoulife/button_chicken.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_chicken.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_chicken.png3337c722fc79b741^2ffaee22fc79b741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_chicken.png000000000080d041^737"CpResource Ajoulife/button_chicken.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_chicken.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/button_chicken.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"7CD407B6-AE27-492B-9493-04D5EDA73579-
+
+CCpResource Ajoulife/button_china.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_china.png
+s393870370.934764
+e393870370.938793
+r1
+xCpResource
+xAjoulife/button_china.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_china.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_china.pngcc5def22fc79b741^ef54f022fc79b741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_china.png000000000080d041^731"CpResource Ajoulife/button_china.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_china.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/button_china.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"D1F2F24E-A4BC-44E2-A30A-D4070246AAC7-
+
+CCpResource Ajoulife/button_contact.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_contact.png
+s393870370.940097
+e393870370.969666
+r1
+xCpResource
+xAjoulife/button_contact.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_contact.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_contact.pngf1bcf022fc79b741^bec0f822fc79b741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_contact.png000000000080d041^737"CpResource Ajoulife/button_contact.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_contact.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/button_contact.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"6490E9DE-7DE1-4281-BBB7-5BCE4DAEC9DE-
+
+CCpResource Ajoulife/button_drinks.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_drinks.png
+s393870370.978714
+e393870370.982870
+r1
+xCpResource
+xAjoulife/button_drinks.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_drinks.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_drinks.png29e8fa22fc79b741^6ea5fb22fc79b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_drinks.png000000000080d041^734"CpResource Ajoulife/button_drinks.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_drinks.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/button_drinks.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"65E6CF7F-5143-4442-BF61-F082EC1C94E8-
+
+CCpResource Ajoulife/button_food.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_food.png
+s393870370.984093
+e393870370.986654
+r1
+xCpResource
+xAjoulife/button_food.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_food.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_food.png26fffb22fc79b741^d89bfc22fc79b741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_food.png000000000080d041^728"CpResource Ajoulife/button_food.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_food.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/button_food.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"2D86F88B-51AF-422F-A841-D3F191F53599-
+
+CCpResource Ajoulife/button_japan.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_japan.png
+s393870370.987852
+e393870370.990796
+r1
+xCpResource
+xAjoulife/button_japan.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_japan.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_japan.png67f3fc22fc79b741^4babfd22fc79b741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_japan.png000000000080d041^731"CpResource Ajoulife/button_japan.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_japan.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/button_japan.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"A310AED0-395D-4C70-A207-DFDE6D7A9200-
+
+CCpResource Ajoulife/button_korean.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_korean.png
+s393870370.991993
+e393870370.994965
+r1
+xCpResource
+xAjoulife/button_korean.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_korean.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_korean.png9b01fe22fc79b741^bfbafe22fc79b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_korean.png000000000080d041^734"CpResource Ajoulife/button_korean.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_korean.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/button_korean.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"9F82B0F6-FF38-4C57-9B24-E8534F7AE2F9-
+
+CCpResource Ajoulife/button_meat.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_meat.png
+s393870370.996565
+e393870371.000008
+r1
+xCpResource
+xAjoulife/button_meat.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_meat.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_meat.pngd730ff22fc79b741^fc000023fc79b741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_meat.png000000000080d041^728"CpResource Ajoulife/button_meat.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_meat.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/button_meat.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"0E06678F-88CA-4B4E-9CB3-A8FCD8DF3536-
+
+CCpResource Ajoulife/button_notice.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_notice.png
+s393870371.001475
+e393870371.003992
+r1
+xCpResource
+xAjoulife/button_notice.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_notice.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_notice.png266f0023fc79b741^9a060123fc79b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_notice.png000000000080d041^734"CpResource Ajoulife/button_notice.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_notice.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/button_notice.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"1F9BB88D-23A2-4D7B-A85C-7F43190BEF90-
+
+CCpResource Ajoulife/button_request.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_request.png
+s393870371.005222
+e393870371.007810
+r1
+xCpResource
+xAjoulife/button_request.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_request.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_request.png2c650123fc79b741^e2000223fc79b741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_request.png000000000080d041^737"CpResource Ajoulife/button_request.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_request.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/button_request.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"C1A4FA9C-1D89-4931-AABD-F9A5F139C69D-
+
+CCpResource Ajoulife/button_school.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_school.png
+s393870371.009054
+e393870371.011557
+r1
+xCpResource
+xAjoulife/button_school.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_school.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_school.png785e0223fc79b741^1afb0223fc79b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_school.png000000000080d041^734"CpResource Ajoulife/button_school.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_school.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/button_school.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"1B26B36E-56A3-42A3-A655-B28CB2714693-
+
+CCpResource Ajoulife/button_service.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_service.png
+s393870371.012743
+e393870371.016114
+r1
+xCpResource
+xAjoulife/button_service.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_service.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_service.png54520323fc79b741^68220423fc79b741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_service.png000000000080d041^737"CpResource Ajoulife/button_service.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_service.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/button_service.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"43F8BE9D-06E8-4515-95C5-354BB4CCEB28-
+
+CCpResource Ajoulife/button_west.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_west.png
+s393870371.017359
+e393870371.020061
+r1
+xCpResource
+xAjoulife/button_west.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_west.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_west.png38820423fc79b741^f2280523fc79b741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_west.png000000000080d041^728"CpResource Ajoulife/button_west.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_west.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/button_west.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"E6998268-7178-4B91-A744-E991D649FF97-
+
+CCpResource Ajoulife/button_yasic.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_yasic.png
+s393870371.021194
+e393870371.026324
+r1
+xCpResource
+xAjoulife/button_yasic.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_yasic.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_yasic.png2d7c0523fc79b741^a0c50623fc79b741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_yasic.png000000000080d041^731"CpResource Ajoulife/button_yasic.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/button_yasic.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/button_yasic.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"4EA6210A-9907-426F-A7CC-3FFFDBAEE03C-
+
+CCpResource Ajoulife/call.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/call.png
+s393870371.055547
+e393870371.124306
+r1
+xCpResource
+xAjoulife/call.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/call.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/call.png3d490e23fc79b741^7fdb1f23fc79b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/call.png000000000080d041^707"CpResource Ajoulife/call.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/call.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/call.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"A39AFA56-EEE2-41FD-99AD-B833F66ED7BE-
+
+CCpResource Ajoulife/restaurantImage/bon.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/bon.jpg
+s393870371.248905
+e393870371.260715
+r1
+xCpResource
+xAjoulife/restaurantImage/bon.jpg
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/bon.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/bon.jpg4bc83f23fc79b741^3f024323fc79b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/bon.jpg000000000080d041^736"CpResource Ajoulife/restaurantImage/bon.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/bon.jpg    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/bon.jpg /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"37C29C14-FB97-4B21-868F-77CD77A540DB-
+
+CCpResource Ajoulife/restaurantImage/j2.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/j2.jpg
+s393870371.261871
+e393870371.313600
+r1
+xCpResource
+xAjoulife/restaurantImage/j2.jpg
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/j2.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/j2.jpg151b4323fc79b741^88685023fc79b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/j2.jpg000000000080d041^733"CpResource Ajoulife/restaurantImage/j2.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/j2.jpg    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/j2.jpg /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"7EB781D6-48EA-4F3F-B881-D3F69A376EB3-
+
+CCpResource Ajoulife/restaurantImage/j21.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/j21.jpg
+s393870371.314781
+e393870371.323033
+r1
+xCpResource
+xAjoulife/restaurantImage/j21.jpg
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/j21.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/j21.jpg50a75023fc79b741^bcb35223fc79b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/j21.jpg000000000080d041^736"CpResource Ajoulife/restaurantImage/j21.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/j21.jpg    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/j21.jpg /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"8FB360E3-4368-4A60-A9BE-E0EC136060C1-
+
+CCpResource Ajoulife/restaurantImage/sap.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/sap.jpg
+s393870371.324388
+e393870371.328190
+r1
+xCpResource
+xAjoulife/restaurantImage/sap.jpg
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/sap.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/sap.jpg7a1b5323fc79b741^b1155423fc79b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/sap.jpg000000000080d041^736"CpResource Ajoulife/restaurantImage/sap.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/sap.jpg    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/sap.jpg /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"3EB1BCCC-304B-4344-847C-2CB78419A5DD-
+
+CCpResource Ajoulife/restaurantImage/sap1.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/sap1.jpg
+s393870371.329407
+e393870371.370529
+r1
+xCpResource
+xAjoulife/restaurantImage/sap1.jpg
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/sap1.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/sap1.jpg47735423fc79b741^2fdb5e23fc79b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/sap1.jpg000000000080d041^739"CpResource Ajoulife/restaurantImage/sap1.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/sap1.jpg    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/sap1.jpg /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"1D6D97AF-B22E-462A-94A2-16944B00934E-
+
+CCpResource Ajoulife/restaurantImage/starz.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starz.jpg
+s393870371.377936
+e393870371.446641
+r1
+xCpResource
+xAjoulife/restaurantImage/starz.jpg
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starz.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starz.jpg39d36023fc79b741^9e7c7223fc79b741^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starz.jpg000000000080d041^742"CpResource Ajoulife/restaurantImage/starz.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starz.jpg    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/starz.jpg /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"0B3C9F0E-D768-450F-9C61-4EB99CB24596-
+
+CCpResource Ajoulife/restaurantImage/starz1.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starz1.jpg
+s393870371.447832
+e393870371.450597
+r1
+xCpResource
+xAjoulife/restaurantImage/starz1.jpg
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starz1.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starz1.jpg80b57223fc79b741^f2607323fc79b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starz1.jpg000000000080d041^745"CpResource Ajoulife/restaurantImage/starz1.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starz1.jpg    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/starz1.jpg /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"B4774B95-62F0-4FB7-9665-730114DE17C9-
+
+CCpResource Ajoulife/restaurantImage/yum.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/yum.jpg
+s393870371.451793
+e393870371.455779
+r1
+xCpResource
+xAjoulife/restaurantImage/yum.jpg
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/yum.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/yum.jpgfab77323fc79b741^31b67423fc79b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/yum.jpg000000000080d041^736"CpResource Ajoulife/restaurantImage/yum.jpg DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/yum.jpg    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/restaurantImage/yum.jpg /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"C1192DA6-6727-42DA-A08E-778011D2F894-
+
+CCpResource Ajoulife/restaurantList.txt DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/restaurantList.txt
+s393871695.778579
+e393871695.781103
+r1
+xCpResource
+xAjoulife/restaurantList.txt
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/restaurantList.txt
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/restaurantList.txtc45fc74f017ab741^2ffdc74f017ab741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/restaurantList.txt0000000000000000^737"CpResource Ajoulife/restaurantList.txt DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/restaurantList.txt    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/restaurantList.txt /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"9D1077FC-BE94-4445-9BA6-AC1267748661-
+
+CCpResource Ajoulife/star.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/star.png
+s393870371.125602
+e393870371.172373
+r1
+xCpResource
+xAjoulife/star.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/star.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/star.png26392023fc79b741^ca322c23fc79b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/star.png000000000080d041^707"CpResource Ajoulife/star.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/star.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/star.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"D373BE66-E7D2-44E1-86A6-FCEF17F7E95D-
+
+CCpResource Ajoulife/starPressed.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starPressed.png
+s393870371.173981
+e393870371.179862
+r1
+xCpResource
+xAjoulife/starPressed.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starPressed.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starPressed.png679a2c23fc79b741^1e162e23fc79b741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starPressed.png000000000080d041^728"CpResource Ajoulife/starPressed.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/starPressed.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/starPressed.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"745829B8-4C80-4ECE-ACE3-A91B87C2788D-
+
+CCpResource Ajoulife/temp.txt DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/temp.txt
+s393870370.739014
+e393870370.776699
+r1
+xCpResource
+xAjoulife/temp.txt
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/temp.txt
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/temp.txt6840bd22fc79b741^43e2c622fc79b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/temp.txt000000000080d041^707"CpResource Ajoulife/temp.txt DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/temp.txt    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/temp.txt /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"F95AAE2B-032E-45AC-87D5-5F6B510D4F09-
+
+CCpResource Ajoulife/time.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/time.png
+s393870371.181097
+e393870371.185052
+r1
+xCpResource
+xAjoulife/time.png
+xDerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/time.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/time.png166d2e23fc79b741^ad682f23fc79b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/time.png000000000080d041^707"CpResource Ajoulife/time.png DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/time.png    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mac27/Desktop/13.06.25/Ajoulife/time.png /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"04A635B6-6E73-4259-A0C8-DD89B083C19B-
+
+CDataModelVersionCompile /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Model.momd /Users/mac27/Desktop/13.06.25/Ajoulife/Model.xcdatamodeld
+s393870353.365996
+e393870354.450776
+r1
+xDataModelVersionCompile
+x/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Model.momd
+x/Users/mac27/Desktop/13.06.25/Ajoulife/Model.xcdatamodeld
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"DataModelVersionCompile DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Model.momd Ajoulife/Model.xcdatamodeld76c05d11fc79b741^62667312fc79b741^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/Model.xcdatamodeld/0000000000000000^847"DataModelVersionCompile DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Model.momd Ajoulife/Model.xcdatamodeld    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -XD_MOMC_IOS_TARGET_VERSION=5.1 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/mac27/Desktop/13.06.25/Ajoulife/Model.xcdatamodeld /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Model.momd36"0D6A9B0B-FD85-4E32-914E-A13F6826182E-
+
+CGenerateDSYMFile /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app.dSYM /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Ajoulife
+s393872064.734230
+e393872064.805676
+r1
+xGenerateDSYMFile
+x/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app.dSYM
+x/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Ajoulife
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Generating /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app.dSYM2d05bcc0027ab741^9640cec0027ab741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app.dSYM/0000000000000000^733"GenerateDSYMFile DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app.dSYM DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Ajoulife    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Ajoulife -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app.dSYM36"08484AFA-4B4B-4F02-AC67-AE1A1A4D0574-
+
+CLd /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Ajoulife normal i386
+s393872064.588109
+e393872064.727446
+r1
+xLd
+x/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Ajoulife
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Link /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Ajoulife6b9f96c0027ab741^b03abac0027ab741^---0#0#0#--1371"Ld DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Ajoulife normal i386    cd /Users/mac27/Desktop/13.06.25    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator -filelist /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Objects-normal/i386/Ajoulife.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework CoreData -lsqlite3 -framework CoreLocation -framework MapKit -framework MessageUI -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Ajoulife36"F76619DD-531C-4B71-B23A-D5EB604186E8-
+
+CProcessInfoPlistFile /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Info.plist Ajoulife/Ajoulife-Info.plist
+s393870353.078253
+e393870353.356851
+r1
+xProcessInfoPlistFile
+x/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Info.plist
+xAjoulife/Ajoulife-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process Ajoulife/Ajoulife-Info.plist6de21411fc79b741^94855b11fc79b741^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/Ajoulife-Info.plist0000000000000000^720"ProcessInfoPlistFile DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Info.plist Ajoulife/Ajoulife-Info.plist    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Ajoulife/Ajoulife-Info.plist -genpkginfo /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app/Info.plist36"1EB87D0A-D871-4CD9-8DC6-83E5FAB0A7FE-
+
+CProcessPCH /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch.pth Ajoulife/Ajoulife-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393870354.374884
+e393870366.981117
+r1
+xProcessPCH
+x/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch.pth
+xAjoulife/Ajoulife-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Ajoulife/Ajoulife-Prefix.pch622f6012fc79b741^0a31fb1efc79b741^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/mac27/Desktop/13.06.25/Ajoulife/Ajoulife-Prefix.pch0000000000000000^3413"ProcessPCH DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch.pth Ajoulife/Ajoulife-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mac27/Desktop/13.06.25    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-generated-files.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-own-target-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-all-target-headers.hmap -iquote /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/Ajoulife-project-headers.hmap -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/include -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources/i386 -I/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/Ajoulife.build/Debug-iphonesimulator/Ajoulife.build/DerivedSources -F/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch.dia -c /Users/mac27/Desktop/13.06.25/Ajoulife/Ajoulife-Prefix.pch -o /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch.pth -MMD -MT dependencies -MF /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Intermediates/PrecompiledHeaders/Ajoulife-Prefix-apeqonrvoqbuqddtpwfowljuemkt/Ajoulife-Prefix.pch.d36"85C14143-15CA-447F-9F13-BC3CC29E340C-
+
+CProcessPCH /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Index/PrecompiledHeaders/Ajoulife-Prefix-cdmpjagofjgjnneouguoqbonfozi_ast/Ajoulife-Prefix.pch.pth Ajoulife/Ajoulife-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app
+s393872064.842499
+e393872064.875169
+r1
+xTouch
+x/Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Touch /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app34bad7c0027ab741^2217e0c0027ab741^---0#0#0#--432"Touch DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app    cd /Users/mac27/Desktop/13.06.25    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mac27/Desktop/13.06.25/DerivedData/Ajoulife/Build/Products/Debug-iphonesimulator/Ajoulife.app36"94DD0C35-17BD-419C-AB5D-35A87FA7E376-
+

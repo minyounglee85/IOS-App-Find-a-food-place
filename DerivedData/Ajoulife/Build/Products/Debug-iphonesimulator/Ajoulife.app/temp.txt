@@ -1,0 +1,23 @@
+cafe star'z/7/의자가 푹신푹신/031)243-1953/시간/0/0/starz.jpg/starz1.jpg/37.278786849471/127.04488168701/0/0
+음식점/종류/간단정보/전화번호/시간/배달가능여부/야식여부/메인이미지/메뉴이미지/위도/경도/위도델타/경도델타
+
+            data.nameOfTitle = [elements objectAtIndex:0];
+            data.kind =  [numberFormatter numberFromString:[elements objectAtIndex:1]];
+            data.detail = [elements objectAtIndex:2];
+            data.tell = [elements objectAtIndex:3];
+            data.time = [elements objectAtIndex:4];
+            data.isDelivery = [numberFormatter numberFromString:[elements objectAtIndex:5]];
+            data.isNight = [numberFormatter numberFromString:[elements objectAtIndex:6]];
+            data.mainImagePath = [elements objectAtIndex:7];
+            data.menuImagePath = [elements objectAtIndex:8];
+            data.mapLatitude = [numberFormatter numberFromString:[elements objectAtIndex:9]];
+            data.mapLongitude = [numberFormatter numberFromString:[elements objectAtIndex:10]];
+            data.mapLatitudeDelta = [numberFormatter numberFromString:[elements objectAtIndex:11]];
+            data.mapLongitudeDelta = [numberFormatter numberFromString:[elements objectAtIndex:12]];
+            
+            
+            
+        // kind : 1.한식 2.중식 3.일식 4.고깃집 5.치킨 6.양식 7.술&카페 8.야식 10.즐겨찾기 11.검색
+        // isNight : 야식인지 여부 (bool)
+        // isFavorable : 즐겨찾기 여부 (bool)
+            

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>Model</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>Model</key>
+		<dict>
+			<key>Restaurant</key>
+			<data>
+			QAC4Mn7ULYreRcK71Ue8wl54Xr+dVzQIotwt1hSVZvk=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

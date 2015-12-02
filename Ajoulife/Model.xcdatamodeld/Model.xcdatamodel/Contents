@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1171" systemVersion="11G63b" minimumToolsVersion="Xcode 4.1" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Restaurant" representedClassName="Restaurant" syncable="YES">
+        <attribute name="detail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isDelivery" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="isFavorite" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="isNight" optional="YES" attributeType="Boolean" defaultValueString="0" syncable="YES"/>
+        <attribute name="kind" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="mainImagePath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mapLatitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="mapLatitudeDelta" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="mapLongitude" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="mapLongitudeDelta" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="menuImagePath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nameOfTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tell" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Restaurant" positionX="160" positionY="240" width="128" height="255"/>
+    </elements>
+</model>
